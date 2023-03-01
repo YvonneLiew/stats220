@@ -10,4 +10,4 @@
 1. Gain a deeper understanding of how programming and statistcs can help with data analysis.
 2. Learn more about the data analysis as a whole
 
-Here is a link to my [LinkedIn](https://www.linkedin.com/in/yvonne-liew-25b6131b3/)!
+Here is a link to my **[LinkedIn](https://www.linkedin.com/in/yvonne-liew-25b6131b3/)**!
