@@ -1,4 +1,4 @@
-# **stats220**
+# stats220
 
 ## *This is my repo for 2023 S1 Stats 220.*
 
@@ -6,7 +6,7 @@
 1. How to use R to visualise data.
 2. How to use Statistics to analyse data.
 
-I'm hoping to:
+### I'm hoping to:
 1. Gain a deeper understanding of how programming and statistcs can help with data analysis.
 2. Learn more about the data analysis as a whole
 
