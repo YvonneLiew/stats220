@@ -8,6 +8,6 @@
 
 ### I'm hoping to:
 * Gain a deeper understanding of how programming and statistcs can help with data analysis.
-* Learn more about the data analysis as a whole
+* Learn more about data analysis as a whole.
 
 Here is a link to my **[LinkedIn](https://www.linkedin.com/in/yvonne-liew-25b6131b3/)**!
